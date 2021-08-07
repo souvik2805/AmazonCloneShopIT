@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Sandish Microchip",
+    "price": "45.23",
+    "description": "This is the best chip in the world.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "Dummy ID",
+        "url": "Dummy URL"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  },
+  {
+    "name": "Sandish Mobile Phone",
+    "price": "45.23",
+    "description": "This is the best chip in the world.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "public_id": "Dummy ID",
+        "url": "Dummy URL"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  }
+]
